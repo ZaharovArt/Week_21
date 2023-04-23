@@ -1,0 +1,3 @@
+﻿  Week_21_Task_2.cpp
+C:\Users\Админ\source\repos\Week_21_Task_2\Week_21_Task_2\Week_21_Task_2.cpp(22,37): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Week_21_Task_2.vcxproj -> C:\Users\Админ\source\repos\Week_21_Task_2\x64\Debug\Week_21_Task_2.exe
